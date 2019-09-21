@@ -12,7 +12,11 @@ este proyecto quiere mostrar cómo conectar un NodeMCU con ThingSpeak y luego gr
 - Bootstrap 4 (Es usado para darle los estilos a lo que se hará en Html)
 
 ## Esquemas de conexión del Hardware
+
 Conexión del HL-69 con el LM393
+
 ![HL-69](imagenes/hl-69.png)
+
 Conexion del HL-69 con el NodeMCU
+
 ![HL-69_NodeMCU](imagenes/hl-69_NodeMCU.jpg)
